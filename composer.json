@@ -1,0 +1,14 @@
+{
+    "name": "manhtq/acf-columns",
+    "type": "wordpress-plugin",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/manh-trinhquoc/acf-columns",
+    "authors": [{
+        "name": "manhtq",
+        "homepage": "https://github.com/manh-trinhquoc"
+    }],
+    "require": {
+        "php": ">=5.6"
+    }
+}
